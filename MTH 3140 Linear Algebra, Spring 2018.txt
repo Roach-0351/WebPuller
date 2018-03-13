@@ -1,29 +1,26 @@
-
-
-MTH 3140 Linear Algebra, Spring 2018
-
-
-
-
-Homepage for MTH 3140 Linear Algebra, Spring Semester 2018 
-
- 
-This page will contain information about our course including homework assignments, due dates and other items of interest.
- 
-Homework Assignments
-Section 3.1 - 1, 2, 3.  Turn in 1(not h), 2 and 3 
-Section 2.4 - 1, 2, 3, 4, 5, 6, 7, 12, 14, 15, 16.  Turn in 4, 12, and 15 
-Section 2.3 - 1, 2a, 3, 11, 12.  Turn in  3b, 12c 
-Section 2.2 - 1, 2bdf, 3, 4, 6, 8, 9, 16.  Turn in 3, 4, 16.
-Section 2.1 - 1, 2, 3, 5, 7, 9, 11, 13, 14, 15, 16, 21. Turn in 3, 16.
-
-  Section 1.6 - 1, 2, 4, 5, 7, 9, 11, 12, 15, 16, 17, 23, 24.  Turn in 7, 9, 12.
-Section 1.5 - 1, 2bdf, 4, 7, 9, 10, 12.  Turn in 4, 7, 12.
-Sectioin 1.4 -  1, 2bd, 3bd, 4bd, 5bd, 6, 7, 10, 16.  Turn in 5d, 6, and 16.
-Section 1.3 - 1, 2aceg, 3, 5, 8, 9, 10, 11, 13, 15, 20  Turn in 5 and13 on 1/22.
-Section 1.2 - 1, 2, 3, 4, 8,  10, 11, 13, 17, 18  Turn in 13, 17,  and 18 on 1/22.
-Section 1.1 - 1a,c, 2a,c, 3a, c, 7, Turn in 7 on 1/18/18.
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>MTH 3140 Linear Algebra, Spring 2018</title>
 
 
 
+<body>
+<div align="center"><strong><u>Homepage for MTH 3140 Linear Algebra, Spring Semester 2018</u></strong></div> 
 
+<p>&nbsp;</p>
+<p>This page will contain information about our course including homework assignments, due dates and other items of interest.</p>
+<p>&nbsp;</p>
+<p align="center">Homework Assignments</p>
+<p align="left">Section 2.2 - 1, 2bdf, 3, 4, 6, 8, 9, 16.  Turn in 3, 4, 16.</p>
+<p align="left">Section 2.1 - 1, 2, 3, 5, 7, 9, 11, 13, 14, 15, 16, 21. Turn in 3, 16.</p>
+<p align="left">
+  Section 1.6 - 1, 2, 4, 5, 7, 9, 11, 12, 15, 16, 17, 23, 24. &nbsp;Turn in 7, 9, 12.</p>
+<p align="left">Section 1.5 - 1, 2bdf, 4, 7, 9, 10, 12. &nbsp;Turn in 4, 7, 12.</p>
+<p align="left">Sectioin 1.4 -  1, 2bd, 3bd, 4bd, 5bd, 6, 7, 10, 16.  Turn in 5d, 6, and 16.</p>
+<p align="left">Section 1.3 - 1, 2aceg, 3, 5, 8, 9, 10, 11, 13, 15, 20 &nbsp;Turn in 5 and13 on 1/22.</p>
+<p align="left">Section 1.2 - 1, 2, 3, 4, 8,  10, 11, 13, 17, 18 &nbsp;Turn in 13, 17, &nbsp;and 18 on 1/22.</p>
+<p align="left">Section 1.1 - 1a,c, 2a,c, 3a, c, 7, Turn in 7 on 1/18/18.</p>
+</body>
+
+
+</html>
